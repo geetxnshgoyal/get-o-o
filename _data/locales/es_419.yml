@@ -162,7 +162,7 @@ transactional_p1: "El instalador ahora admite un nuevo rol de sistema de Servido
   Esto significa\nque la gran mayoría de los paquetes RPM que funcionan con otros
   roles del sistema\nde distribuciones de openSUSE también funcionan con el rol del
   sistema Servidor Transaccional.\n"
-yast: YaST, la mejor opción para el usuario ~~avanzado~~
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Una de las grandes herramientas de configuración del sistema le ayudará,
   el usuario, a\nconfigurar cada aspecto de su sistema. Ya no necesitará ejecutar
   un montón\nde \"scripts\" de configuración o introducir comandos dudosos\npara tener
@@ -420,7 +420,7 @@ Tumbleweed_features:
     name: Poderosa
     description: "Aprovechando tecnologías por las que openSUSE es renombrada, como
       el sistema de archivos `Btrfs`, la utilidad de la línea de comandos `snapper`,
-      así como el panel de control `YaST`; Tumbleweed te empodera con control completo
+      así como el panel de control `Cockpit`; Tumbleweed te empodera con control completo
       sobre tu sistema, dejándote definir las configuraciones que quieres. Ya no te
       tienes que preocupar de que un sistema interfiera con tu ritmo de trabajo.\n"
 leap_micro_ovw_video_desc: Demo de instalación de Leap Micro 6.1 con encriptado 

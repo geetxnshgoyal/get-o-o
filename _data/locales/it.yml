@@ -181,7 +181,7 @@ software_p1: "Detto fra di noi, dover andare in ogni sito per ottenere tutto il 
   \ di cui si potrebbe aver bisogno richiede un gran lavoro. Il centro\nsoftware online
   rende tutto questo molto più semplice, incorporando\nin un unico posto il software
   da una gran varietà di sorgenti.\n"
-yast: Yast, la scelta migliore per gli utenti ~~esperti~~
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Uno dei migliori strumenti di configurazione del sistema aiuta te, l'utente,
   a\nconfigurare ogni singolo aspetto del tuo sistema. Non è più necessario passare\n\
   \ attraverso una pletora di script di configurazione, oppure immettere degli\nequivoci
@@ -248,7 +248,7 @@ Tumbleweed_features:
     name: Potente
     description: "Le tecnologie impiegate da openSuse per le quali è rinomata, quali
       il file system `Btrfs`, l'utilità da riga di comando `snapper` e il robusto
-      \"pannello di controllo\" `YaST`, danno il pieno controllo sul sistema: permettono
+      \"pannello di controllo\" `Cockpit`, danno il pieno controllo sul sistema: permettono
       di definire le impostazioni che si desiderano per esso, e che sia impostato
       con queste. Non ci si deve più preoccupare che un sistema interferisca con il
       flusso di lavoro.\n"

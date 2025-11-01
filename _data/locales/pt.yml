@@ -160,7 +160,7 @@ transactional_p1: "O instalador agora suporta um novo cargo o Servidor Transacio
   SUSE e openSUSE dependem. Isto significa\nque a vasta maioria dos pacotes RPM que
   funcionam em outros cargos dos distribuições\nopenSUSE também funcionam com o cargo
   de\nServidor Transacional.\n"
-yast: YaST, a melhor escolha para o utilizador ~~experiente~~
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Uma das melhores ferramentas de configuração de sistema que ajuda-o, a si
   o utilizador, a\nconfigurar cada aspeto do seu sistema. Você já não necessita de
   atravessar\numa infinidade de scripts de configuração ou inserir comandos duvidosos\n\

@@ -27,7 +27,7 @@ software_p1: "Iskanje programov, ki jih potrebujete, po različnih spletnih stra
   zelo poenostavi. Programi z raznih koncev so zbrani\nna enem mestu.\n"
 software_get: Pridobite programe
 transactional: Transakcijski strežnik
-yast: YaST, najboljša izbira za ~~zahtevnega~~ uporabnika
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "En izmed najboljših orodij za nastavljanje sistema pomaga vam, uporabniku,\n\
   \ da nastavite vsak posamezni aspekt sistema. Ni vam več potrebno urejati\nvelikega
   števila nastavitvenih skriptov ali vnašati dvomljivih ukazov, da bi\nsistem nastavili,
@@ -375,7 +375,7 @@ Tumbleweed_features:
     name: Zmogljiv
     description: "Z izkoriščanjem tehnologij po katerih je openSUSE dobro znan; na
       primer datotečnem sistemu `btrfs`, orodju `snapper` za ukazno vrstico in dodobra
-      preizkušenemu »nadzornemu središču« YaST; vas Tumbleweed opolnomoči s popolnim
+      preizkušenemu »nadzornemu središču« Myrlyn & Cockpit; vas Tumbleweed opolnomoči s popolnim
       nadzorom nad vašim računalnikom. Omogoča vam nastaviti želene nastavitve in
       ni vam več potrebno skrbeti, da bi sistem prekinjal vaš potek dela.\n"
   plant:

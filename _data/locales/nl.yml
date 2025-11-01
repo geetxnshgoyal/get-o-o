@@ -233,7 +233,7 @@ selfinstall_image: Zelf-installerend image
 selfinstall_rt_image: Zelf-installerend RealTime image
 snapper: Systeem corrupt geworden? Geen probleem meer
 software_get: Verkrijg software
-yast: YaST, de beste keus voor de ~~power~~ user
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_firewall: Firewall
 yast_fonts: Lettertypen
 yast_hardware: Hardware
@@ -360,7 +360,7 @@ Tumbleweed_features:
   power:
     description: "Gebruik makend van de technologieën waar openSUSEbefaamd om is,
       zoals het `Btrfs` bestandssysteem, het `snapper` terminal hulpprogramma en het
-      beproefde `YaST` ¨configuratie scherm¨, geeft Tumbleweed u de mogelijkheid tot
+      beproefde `Cockpit` ¨configuratie scherm¨, geeft Tumbleweed u de mogelijkheid tot
       volledige controle van uw systeem, zodat u de instellingen bepaalt die u wenst
       en klaar. Geen zorgen meer dat het systeem uw werkwijze hindert.\n"
     name: Krachtig

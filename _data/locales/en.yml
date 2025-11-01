@@ -252,12 +252,12 @@ transactional_p1: |
   that the vast majority of RPM packages that work with other system
   roles of openSUSE distributions also work with the system role
   Transactional Server.
-yast: YaST, the best choice for the ~~power~~ user
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: |
-  One of the greatest system configuration tools helps you, the user, to
-  setup every single aspect of your system. You no longer need to go
-  through a plethora of configuration scripts or enter dubious commands
-  to get the system setup as you need it.
+  Leap 16 pairs the guided Myrlyn first-boot experience with the Cockpit web
+  console to cover everything from first-time personalization to ongoing
+  administration. Configure hardware, users, services, and transactional
+  updates through intuitive workflows without touching shell scripts.
 yast_firewall: Firewall
 yast_fonts: Fonts
 yast_hardware: Hardware
@@ -411,7 +411,7 @@ Tumbleweed_features:
   power:
     name: Powerful
     description: |
-      Harnessing technologies openSUSE is renowned for, such as the `Btrfs` file-system, the `snapper` command-line utility as well as the battle-proven `YaST` "control panel", Tumbleweed empowers you with full control over your system, letting you define the settings you want and be done with it. No longer do you have to worry about a system interfering with your workflow.
+      Harnessing technologies openSUSE is renowned for, such as the `Btrfs` file-system, the `snapper` command-line utility as well as the modern Cockpit web console, Tumbleweed empowers you with full control over your system, letting you define the settings you want and be done with it. No longer do you have to worry about a system interfering with your workflow.
   plant:
     name: Stands on Firm Ground
     description: |

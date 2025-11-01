@@ -156,7 +156,7 @@ transactional_p1: "Pemasang sekarang mendukung peran sistem baru Peladen Transak
   pada perkakas manajemen paket\nbahwa semua distribusi SUSE dan openSUSE lainnya
   bergantung. Ini berarti\nbahwa sebagian besar paket RPM yang bekerja dengan peran
   sistem\ndistribusi openSUSE lain juga bekerja dengan peran sistem\nServer Transaksional.\n"
-yast: YaST, pilihan terbaik bagi pengguna ~~tingkat lanjut~~
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Salah satu perkakas konfigurasi sistem terbesar membantu Anda, pengguna,
   untuk\nmengatur setiap aspek sistem Anda. Anda tidak perlu lagi pergi\nmelalui sejumlah
   besar skrip konfigurasi atau masukkan perintah yang meragukan\nuntuk mendapatkan
@@ -329,7 +329,7 @@ Tumbleweed_features:
   power:
     name: Kuat
     description: "Memanfaatkan teknologi openSUSE yang terkenal, seperti sistem berkas
-      `Btrfs`, utilitas baris perintah `snapper` serta \"panel kontrol\" `YaST` yang
+      `Btrfs`, utilitas baris perintah `snapper` serta \"panel kontrol\" `Cockpit` yang
       terbukti, Tumbleweed memberdayakan Anda dengan kontrol penuh atas sistem Anda,
       membiarkan Anda menentukan pengaturan yang Anda inginkan dan menyelesaikannya.
       Anda tidak perlu lagi khawatir tentang sistem yang mengganggu alur kerja Anda.\n"

@@ -165,7 +165,7 @@ transactional_p1: "El instalador ahora admite un nuevo papel del sistema Servido
   gran mayoría de los paquetes RPM que trabajan con otro sistema\nfunciones de las
   distribuciones de openSUSE también funcionan con el papel del sistema\nServidor
   Transaccional.\n"
-yast: YaST, la mejor opción para el usuario ~~avanzado~~
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Una de las herramientas de configuración más grandes del sistema te ayuda,
   como usuario, a\nconfigurar cada aspecto de tu sistema. Ya no necesitas pasar por\n\
   \ una plétora de scripts de configuración o introducir comandos dudosos\npara conseguir
@@ -335,7 +335,7 @@ Tumbleweed_features:
     name: Potente
     description: "Aprovechando las tecnologías por las que openSUSE es reconocido
       —como el sistema de archivos `Btrfs`, la utilidad de línea de comandos `snapper`,
-      así como por el panel de control `YaST`—, Tumbleweed le otorga control total
+      así como por el panel de control `Cockpit`—, Tumbleweed le otorga control total
       sobre su sistema, permitiéndole definir la configuración y acabado de su preferencia.
       ¡Ya no tiene que preocuparse más por un sistema que interfiera con su flujo
       de trabajo!\n"

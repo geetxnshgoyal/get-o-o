@@ -170,7 +170,7 @@ Tumbleweed_features:
     name: Kraftfull
     description: "Att utnyttja teknologier som openSUSE är kända för, såsom \"Btrfs\"\
       -filsystemet, kommandoradsverktyget \"snapper\" samt den stridsbeprövade \"\
-      YaST\" \"kontrollpanelen\", ger Tumbleweed dig full kontroll över ditt system,
+      Myrlyn & Cockpit\" \"kontrollpanelen\", ger Tumbleweed dig full kontroll över ditt system,
       låter dig definiera de inställningar du vill ha och bli klar med det. Du behöver
       inte längre oroa dig för att ett system stör ditt arbetsflöde.\n"
   knife:
@@ -265,7 +265,7 @@ requirements_net_desc: Internetåtkomst hjälpsamt och krävs för
 verify_download_help: För mer hjälp med att verifiera din nedladdning, vänligen 
   läs
 software: Skaffa programvara kunde inte vara enklare
-yast: YaST, det bästa valet för ~ ~ expert ~ ~ -användaren
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 index_server_p1: Val av distributioner för serveranvändning
 index_full: Eller gå direkt till nedladdningssidorna för distributionerna
 desktop: openSUSE Skrivbordsdistributioner

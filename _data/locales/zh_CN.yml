@@ -116,7 +116,7 @@ transactional: 事务性服务器
 transactional_p1: "安装程序现在支持新的系统角色——事务性服务器，这是 openSUSE Kubic\n努力的结果。这个系统角色搭载新的更新系统，（当作单个操作）原子化\n\
   \ 地应用更新，并使其在需要时易于还原。这些功能基于所有其他 SUSE 和\nopenSUSE 发行版都依赖的软件包管理工具。这表示 openSUSE 发行版的其\n\
   \ 他系统角色上的绝大多数 RPM 软件包，都能在事务性服务器上工作。\n"
-yast: YaST，~~超级~~用户的最佳选择
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "最棒的系统配置工具之一，可以帮助作为用户的你，设置系统的方方面面。\n你不用再执行过多的配置脚本或者输入可疑的命令，来设置系统成为你需\n要的样子。\n"
 yast_firewall: 防火墙
 yast_fonts: 字体
@@ -179,7 +179,7 @@ Tumbleweed_features:
     description: "更新以工业级的质量标准进行彻底测试，使用其他 Linux 发行版都羡慕的构建系统。不只每个软件包的新版本都被单独测试，而且不同的版本集合也会相对彼此测试，以确保你的系统内部能够一致。\n"
     name: 稳定
   power:
-    description: "采用 openSUSE 特色的技术，比如 `Btrfs` 文件系统、`snapper` 命令行工具以及久经历练的 `YaST`“控制面板”，Tumbleweed
+    description: "采用 openSUSE 特色的技术，比如 `Btrfs` 文件系统、`snapper` 命令行工具以及久经历练的 `Cockpit`“控制面板”，Tumbleweed
       赋予你控制系统的完整能力，让你能够定制你想要的设置并完成它。你不用再担心系统会干扰你的工作流程。\n"
     name: 功能强大
   knife:

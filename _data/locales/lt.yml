@@ -62,7 +62,7 @@ kvm_ch_image: KVM ir XEN konteinerinis serveris
 openstack_image: OpenStack-Cloud
 virtualbox_image: VirtualBox
 hardware_images: Aparatams
-yast: YaST yra geriausias pasirinkimas ~~rimtiems~~ naudotojams
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 Tumbleweed_features:
   gamepad:
     name: Žaidimams

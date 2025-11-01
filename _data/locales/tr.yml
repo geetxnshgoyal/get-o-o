@@ -85,7 +85,7 @@ Tumbleweed_features:
   power:
     name: Güçlü
     description: "OpenSUSE'nin ünlü `Btrfs` dosya sistemi, `snapper` komut satırı
-      yardımcı programının yanı sıra battle-proven `YaST` \"kontrol paneli\" gibi
+      yardımcı programının yanı sıra battle-proven `Cockpit` \"kontrol paneli\" gibi
       teknolojilerinden yararlanan Tumbleweed, sisteminiz üzerinde tam kontrol sahibi
       olmanızı sağlar. İstediğiniz ayarları tanımlamanıza ve işinizi bitirmenize olanak
       tanır. Artık bir sistemin iş akışınıza müdahale etmesi konusunda endişelenmenize
@@ -366,7 +366,7 @@ snapper_p1: "Dosya Sistemi Anlık Görüntüleri özelliği, yazılım ve günce
 software_get: Yazılım Edinin
 transactional: İşlemsel sunucu
 yast_fonts: Yazı tipleri
-yast: YaST, ~~ileri seviye~~ kullanıcılar için en iyi seçim
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_hardware: Donanım
 yast_partitioner: Bölümleyici
 yast_printer: Yazıcı

@@ -157,7 +157,7 @@ transactional_p1: "Instalator obsługuje teraz nową rolę systemu Serwer Transa
   na których bazują wszystkie inne dystrybucje SUSE i openSUSE. Oznacza to, że znaczna
   większość pakietów RPM, które działają z innymi rolami systemu w dystrybucjach openSUSE,
   również działa z rolą Serwera Transakcyjnego.\n"
-yast: YaST, nalepszy wybór dla ~~zaawansowanego~~ użytkownika
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Jedno z najlepszych narzędzi do konfiguracji systemu pomaga tobie, użytkownikowi,
   ustawić każdy aspekt twojego systemu. Nie musisz już przeglądać wielu skryptów konfiguracyjnych
   ani wprowadzać podejrzanych poleceń, aby system został skonfigurowany zgodnie z
@@ -292,7 +292,7 @@ Tumbleweed_features:
     name: Potężny
     description: "Wykorzystując technologie z których openSUSE jest znane, takie jak
       system plików `Btrfs`, narzędzie wiersza poleceń `snapper`, czy też sprawdzony
-      \"panel sterowania\" `YaST`, Tumbleweed daje Ci pełną kontrolę nad systemem,
+      \"panel sterowania\" `Cockpit`, Tumbleweed daje Ci pełną kontrolę nad systemem,
       dzięki czemu możesz zdefiniować pożądane ustawienia i o nich zapomnieć. Już
       nie musisz martwić się, że system będzie ingerował w Twoją pracę.\n"
   shield:

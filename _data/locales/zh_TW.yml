@@ -108,7 +108,7 @@ software: 取得軟體不能再更簡單了
 software_p1: "為了取得所有您需要的軟體而跑遍各個網站是個大工程。線上軟體中心藉由將軟體從一大堆來源集中到一個地方，讓軟體取得過程更容易。\n"
 software_get: 取得軟體
 transactional: 交易型伺服器
-yast: YaST，~~超級~~使用者的最佳選擇
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_firewall: 防火牆
 yast_fonts: 字型
 yast_hardware: 硬體
@@ -228,7 +228,7 @@ Tumbleweed_features:
     name: 堅實基礎
   power:
     description: "Tumbleweed 運用 openSUSE 聞名的技術，例如 `Btrfs` 檔案系統、`snapper` 指令列工具以及經過實戰驗證的
-      `YaST` 控制面板，讓您能夠完全控制您的系統，讓您定義想要的設定，並完成它。您再也不用擔心系統干擾您的工作流程。\n"
+      `Cockpit` 控制面板，讓您能夠完全控制您的系統，讓您定義想要的設定，並完成它。您再也不用擔心系統干擾您的工作流程。\n"
     name: 功能強大
   shield:
     description: "從最新版本的作業系統核心建構，包含最新緩和 Spectre / Meltdown 問題的修補程式，與預設開啟防火牆及強固的安全策略，從一開始您的安全即受到保障。\n"

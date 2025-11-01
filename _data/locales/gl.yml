@@ -173,7 +173,7 @@ Tumbleweed_features:
   power:
     description: "Aproveitando as tecnoloxías polas que openSUSE é coñecido, como
       o sistema de ficheiros `Btrfs`, a utilidade de liña de ordes `snapper` , así
-      como o \"panel de control\" `YaST`, Tumbleweed permítelle un control total sobre
+      como o \"panel de control\" `Cockpit`, Tumbleweed permítelle un control total sobre
       o seu sistema, permitíndolle definir a configuración e o acabado que desexe.
       Xa non ten que preocupartse de que un sistema interfira co seu fluxo de traballo.\n"
     name: Poderoso

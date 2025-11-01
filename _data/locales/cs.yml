@@ -152,7 +152,7 @@ transactional_p1: "Instalační program nyní podporuje novou systémovou roli T
   se spoléhají všechny ostatní distribuce\nSUSE a openSUSE. To znamená, že drtivá
   většina RPM balíčků, které\nfungují s jiným systémem rolí distribucí openSUSE, také
   pracují se\nsystémovou rolí Transakční server.\n"
-yast: YaST, nejlepší volba pro pokročilého uživatele ~~power user~~
+yast: Myrlyn & Cockpit, streamlined setup for Leap 16
 yast_p1: "Jeden z nejlepších nástrojů pro konfiguraci systému vám, uživateli,\npomůže
   nastavit každou vlastnost vašeho systému. Už nemusíte\nprocházet množstvím konfiguračních
   skriptů nebo zadávat pochybné\npříkazy, abyste nastavili systém, jak potřebujete.\n"
@@ -389,9 +389,9 @@ Tumbleweed_features:
   power:
     name: Výkonný
     description: "Tumbleweed využívá technologie, kterými je openSUSE proslulé, jako
-      je souborový systém `Btrfs`, nástroj příkazového řádku `snapper` a osvědčený
-      \"ovládací panel\" `YaST, a poskytuje vám tak plnou kontrolu nad systémem, definovat
-      požadovaná nastavení a zachovávat je. Již se nemusíte obávat, že by systém narušoval
+      je souborový systém `Btrfs`, nástroj příkazového řádku `snapper` a moderní
+      webové konzole Cockpit, které vám poskytují plnou kontrolu nad systémem. Nastavte
+      požadované konfigurace a pokračujte v práci bez obav, že by systém narušoval
       váš pracovní postup.\n"
 leap_ovw_title: Zcela nový způsob sestavení openSUSE a nový typ hybridní 
   distribuce Linuxu
